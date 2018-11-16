@@ -1,7 +1,8 @@
 # SAR-ZSL_for_featureSpace
 Code for paper "Zero-Shot Learning of SAR Target Feature Space With  Deep Generative Neural Networks"
 
-![Overall framework of the generative DNN-based SAR target feature space construction and interpretation.](绘图1.vsdx)
+### Overall framework of the generative DNN-based SAR target feature space construction and interpretation:
+![Overall framework of the generative DNN-based SAR target feature space construction and interpretation.](overall.png)
 
 ### Constructor–generator network for MSTAR data:
 ![Constructor–generator network for MSTAR data.](图片1.png)
@@ -31,12 +32,11 @@ to train or inferece interpreter DNN:
 ### Generated full-aspect SAR images:
 ![Generated full-aspect SAR images.](generatedImages.png)
 
-
 ### Distribution of test samples of known targets as interpreted in the feature space:
-![Distribution of test samples of known targets as interpreted in the feature space.](fig9.tif)
+![Distribution of test samples of known targets as interpreted in the feature space.](fig9.png)
 
 ### Distribution of “new target” T72 on the feature space:
-![Distribution of “new target” T72 on the feature space.](fig11(a).tif)
+![Distribution of “new target” T72 on the feature space.](fig11_a.png)
 
 ## Authors
 - [Qian Song](https://github.com/QianSong-Cherry/)
@@ -44,4 +44,5 @@ to train or inferece interpreter DNN:
 
 ## References
 [1] Q. Song and F. Xu, "Zero-Shot Learning of SAR Target Feature Space With  Deep Generative Neural Networks," IEEE GRSL, vol. 14, no. 12, 2017.
+
 [2] A. Dosovitskiy et al., "Learning to Generate Chairs, Tables and Cars with Convolutional Networks," arXiv:1411.5928v3.
