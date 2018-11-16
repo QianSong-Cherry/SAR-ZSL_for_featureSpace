@@ -33,7 +33,7 @@ to train or inferece interpreter DNN:
 ![Generated full-aspect SAR images.](generatedImages.png)
 
 ### Distribution of test samples of known targets as interpreted in the feature space:
-![Distribution of test samples of known targets as interpreted in the feature space.](known.png)
+![Distribution of test.](fig9.png)
 
 ### Distribution of “new target” T72 on the feature space:
 ![Distribution of “new target” T72 on the feature space.](fig.png)
