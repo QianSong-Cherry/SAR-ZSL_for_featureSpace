@@ -29,7 +29,7 @@ to train or inferece interpreter DNN:
 
 ## Results
 ### Generated full-aspect SAR images:
-![Generated full-aspect SAR images.](generated full-aspect SAR images.png)
+![Generated full-aspect SAR images.](generatedImages.png)
 
 
 ### Distribution of test samples of known targets as interpreted in the feature space:
